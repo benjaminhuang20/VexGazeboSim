@@ -1,0 +1,3 @@
+/Users/ben/Documents/gazebo-models/tank_plugin/build/CMakeFiles/TankDrivePlugin.dir
+/Users/ben/Documents/gazebo-models/tank_plugin/build/CMakeFiles/edit_cache.dir
+/Users/ben/Documents/gazebo-models/tank_plugin/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/ben/Documents/gazebo-models/tank_plugin/build",
+  "command": "/usr/bin/c++ -DPROTOBUF_USE_DLLS -DTankDrivePlugin_EXPORTS -I/opt/homebrew/include/gz/sim8 -isystem /opt/homebrew/include -isystem /opt/homebrew/include/gz/plugin2 -isystem /opt/homebrew/include/gz/utils2 -isystem /opt/homebrew/include/gz/transport13 -isystem /opt/homebrew/include/gz/msgs10 -isystem /opt/homebrew/include/gz/math7 -isystem /opt/homebrew/Cellar/tinyxml2/11.0.0/include -isystem /opt/homebrew/include/gz/common5 -isystem /opt/homebrew/include/gz/sdformat14 -std=gnu++17 -arch arm64 -fPIC -I/opt/homebrew/Cellar/protobuf/35.1/include -I/opt/homebrew/Cellar/tinyxml2/11.0.0/include -o CMakeFiles/TankDrivePlugin.dir/TankDrivePlugin.cc.o -c /Users/ben/Documents/gazebo-models/tank_plugin/TankDrivePlugin.cc",
+  "file": "/Users/ben/Documents/gazebo-models/tank_plugin/TankDrivePlugin.cc",
+  "output": "CMakeFiles/TankDrivePlugin.dir/TankDrivePlugin.cc.o"
+}
+]

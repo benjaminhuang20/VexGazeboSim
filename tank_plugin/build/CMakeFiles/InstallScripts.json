@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ben/Documents/gazebo-models/tank_plugin/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
